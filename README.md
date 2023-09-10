@@ -11,8 +11,6 @@ What we have done:
 - Links for listening/sending messages
 
 By:
-Anne Shorkey <ashorkey@umich.edu>
-Jack Kolbert <jkolbert@umich.edu>
 Kobe Shi <kobeshi@umich.edu>
 
 ## Quick start
